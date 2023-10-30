@@ -19,7 +19,8 @@
    ![Copy](./images/upstash-4.png)
 
 4. Copy UPSTASH_REDIS_REST_URL and UPSTASH_REDIS_REST_TOKEN into your synchronization configuration, then click **Check Availability**.
-
+"""https://eu1-nice-serval-38034.upstash.io"""
+"""AZSSACQgNWIyOTY2NzQtY2E3OC00ZTNmLWJiNjQtMjc4OWRlZTMxMDM2ZTU0ZjYyMzczNWYzNDNhM2IxZDFlNmRlMGRmMmI5ZGY="""
     ![Synchronize 1](./images/upstash-5.png)
 
     If everything is in order, you've successfully completed this step.
